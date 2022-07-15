@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "pc070_aida_hdmi_dp.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

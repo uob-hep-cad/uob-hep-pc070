@@ -91,7 +91,7 @@
     (property "Reference" "H4" (id 0) (at 127 161.7253 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 127 164.2622 0)
+    (property "Value" "MountingHole_Pad" (id 1) (at 127 164.2622 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 124.46 163.83 0)
@@ -109,7 +109,7 @@
     (property "Reference" "H3" (id 0) (at 100.33 161.7253 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 100.33 164.2622 0)
+    (property "Value" "MountingHole_Pad" (id 1) (at 100.33 164.2622 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 97.79 163.83 0)
@@ -127,7 +127,7 @@
     (property "Reference" "H2" (id 0) (at 73.66 161.7253 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 73.66 164.2622 0)
+    (property "Value" "MountingHole_Pad" (id 1) (at 73.66 164.2622 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 71.12 163.83 0)
@@ -145,7 +145,7 @@
     (property "Reference" "H1" (id 0) (at 46.99 161.7253 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 46.99 164.2622 0)
+    (property "Value" "MountingHole_Pad" (id 1) (at 46.99 164.2622 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 44.45 163.83 0)
@@ -241,16 +241,16 @@
 
   (symbol_instances
     (path "/c4721215-44f8-4fba-9056-f3e63e7c3727"
-      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom")
+      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom")
     )
     (path "/790ab5af-3117-43e1-8a0f-35ffb6f652f1"
-      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom")
+      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom")
     )
     (path "/3084da06-00a6-4f14-a727-3176d92c7774"
-      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom")
+      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom")
     )
     (path "/206e916a-4836-4d47-bdf7-6b1bb15b688e"
-      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom")
+      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom")
     )
     (path "/85ae3538-1427-4125-9029-58c53fdbed24/7dce0df9-3c03-4d99-b668-931d27be5d82"
       (reference "J1") (unit 1) (value "47272-0001") (footprint "47272-0001:MOLEX_47272-0001")
