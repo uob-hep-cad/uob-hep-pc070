@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "HDMR-19-01-S-SM-TR")(type "KiCad")(uri "/Users/phdgc/Documents/pc070/hardware/kicad/HDMR-19-01-S-SM-TR")(options "")(descr ""))
+  (lib (name "47272-0001")(type "KiCad")(uri "/Users/phdgc/Documents/pc070/hardware/kicad/47272-0001")(options "")(descr ""))
+)
