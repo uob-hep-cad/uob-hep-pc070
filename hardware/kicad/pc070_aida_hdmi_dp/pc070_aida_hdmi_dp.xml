@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/projects/HEP_Instrumentation/cad/designs/uob-hep-pc070/hardware/kicad/pc070_aida_hdmi_dp/pc070_aida_hdmi_dp.kicad_sch</source>
+    <date>Fri 05 Aug 2022 13:53:49 BST</date>
+    <tool>Eeschema 6.0.7-1.fc36</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pc070_aida_hdmi_dp.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/pc070_aida_hdmi_dp_single/" tstamps="/85ae3538-1427-4125-9029-58c53fdbed24/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pc070_aida_hdmi_dp_single.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/pc070_aida_hdmi_dp_single1/" tstamps="/397d1485-1147-4ecb-b1ee-64bfece216d7/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pc070_aida_hdmi_dp_single.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/pc070_aida_hdmi_dp_single2/" tstamps="/baf9226b-4716-4578-a466-149cc036931f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pc070_aida_hdmi_dp_single.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/pc070_aida_hdmi_dp_single5/" tstamps="/8dcbb014-9672-4528-8f1d-9117786af499/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pc070_aida_hdmi_dp_single.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/pc070_aida_hdmi_dp_single4/" tstamps="/cb66583a-52d0-45e6-94ac-aba00d4d5a2c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pc070_aida_hdmi_dp_single.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/pc070_aida_hdmi_dp_single3/" tstamps="/e8d2b4c2-3d05-47d9-ae9f-1984132c8c3c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pc070_aida_hdmi_dp_single.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pc070_aida_hdmi_dp.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4721215-44f8-4fba-9056-f3e63e7c3727</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pc070_aida_hdmi_dp.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>790ab5af-3117-43e1-8a0f-35ffb6f652f1</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pc070_aida_hdmi_dp.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3084da06-00a6-4f14-a727-3176d92c7774</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pc070_aida_hdmi_dp.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>206e916a-4836-4d47-bdf7-6b1bb15b688e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>47272-0001</value>
+      <footprint>47272-0001:MOLEX_47272-0001</footprint>
+      <fields>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R</field>
+        <field name="MF">Molex</field>
+        <field name="MP">47272-0001</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="47272-0001" part="47272-0001" description=""/>
+      <property name="MP" value="47272-0001"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="MF" value="Molex"/>
+      <property name="PRICE" value="None"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="DESCRIPTION" value="Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single/" tstamps="/85ae3538-1427-4125-9029-58c53fdbed24/"/>
+      <tstamps>7dce0df9-3c03-4d99-b668-931d27be5d82</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>HDMR-19-01-S-SM-TR</value>
+      <footprint>HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="PARTREV">H</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="HDMR-19-01-S-SM-TR" part="HDMR-19-01-S-SM-TR" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="6.18 mm"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="H"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single/" tstamps="/85ae3538-1427-4125-9029-58c53fdbed24/"/>
+      <tstamps>dd00c2e1-6027-4717-b312-4fab3ee52002</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>47272-0001</value>
+      <footprint>47272-0001:MOLEX_47272-0001</footprint>
+      <fields>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R</field>
+        <field name="MF">Molex</field>
+        <field name="MP">47272-0001</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="47272-0001" part="47272-0001" description=""/>
+      <property name="MP" value="47272-0001"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="MF" value="Molex"/>
+      <property name="PRICE" value="None"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="DESCRIPTION" value="Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single1"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single1/" tstamps="/397d1485-1147-4ecb-b1ee-64bfece216d7/"/>
+      <tstamps>7dce0df9-3c03-4d99-b668-931d27be5d82</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>HDMR-19-01-S-SM-TR</value>
+      <footprint>HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="PARTREV">H</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="HDMR-19-01-S-SM-TR" part="HDMR-19-01-S-SM-TR" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="6.18 mm"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="H"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single1"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single1/" tstamps="/397d1485-1147-4ecb-b1ee-64bfece216d7/"/>
+      <tstamps>dd00c2e1-6027-4717-b312-4fab3ee52002</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>47272-0001</value>
+      <footprint>47272-0001:MOLEX_47272-0001</footprint>
+      <fields>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R</field>
+        <field name="MF">Molex</field>
+        <field name="MP">47272-0001</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="47272-0001" part="47272-0001" description=""/>
+      <property name="MP" value="47272-0001"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="MF" value="Molex"/>
+      <property name="PRICE" value="None"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="DESCRIPTION" value="Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single2"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single2/" tstamps="/baf9226b-4716-4578-a466-149cc036931f/"/>
+      <tstamps>7dce0df9-3c03-4d99-b668-931d27be5d82</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>HDMR-19-01-S-SM-TR</value>
+      <footprint>HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="PARTREV">H</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="HDMR-19-01-S-SM-TR" part="HDMR-19-01-S-SM-TR" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="6.18 mm"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="H"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single2"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single2/" tstamps="/baf9226b-4716-4578-a466-149cc036931f/"/>
+      <tstamps>dd00c2e1-6027-4717-b312-4fab3ee52002</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>47272-0001</value>
+      <footprint>47272-0001:MOLEX_47272-0001</footprint>
+      <fields>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R</field>
+        <field name="MF">Molex</field>
+        <field name="MP">47272-0001</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="47272-0001" part="47272-0001" description=""/>
+      <property name="MP" value="47272-0001"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="MF" value="Molex"/>
+      <property name="PRICE" value="None"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="DESCRIPTION" value="Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single5"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single5/" tstamps="/8dcbb014-9672-4528-8f1d-9117786af499/"/>
+      <tstamps>7dce0df9-3c03-4d99-b668-931d27be5d82</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>HDMR-19-01-S-SM-TR</value>
+      <footprint>HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="PARTREV">H</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="HDMR-19-01-S-SM-TR" part="HDMR-19-01-S-SM-TR" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="6.18 mm"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="H"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single5"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single5/" tstamps="/8dcbb014-9672-4528-8f1d-9117786af499/"/>
+      <tstamps>dd00c2e1-6027-4717-b312-4fab3ee52002</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>47272-0001</value>
+      <footprint>47272-0001:MOLEX_47272-0001</footprint>
+      <fields>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R</field>
+        <field name="MF">Molex</field>
+        <field name="MP">47272-0001</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="47272-0001" part="47272-0001" description=""/>
+      <property name="MP" value="47272-0001"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="MF" value="Molex"/>
+      <property name="PRICE" value="None"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="DESCRIPTION" value="Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single4"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single4/" tstamps="/cb66583a-52d0-45e6-94ac-aba00d4d5a2c/"/>
+      <tstamps>7dce0df9-3c03-4d99-b668-931d27be5d82</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>HDMR-19-01-S-SM-TR</value>
+      <footprint>HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="PARTREV">H</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="HDMR-19-01-S-SM-TR" part="HDMR-19-01-S-SM-TR" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="6.18 mm"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="H"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single4"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single4/" tstamps="/cb66583a-52d0-45e6-94ac-aba00d4d5a2c/"/>
+      <tstamps>dd00c2e1-6027-4717-b312-4fab3ee52002</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>47272-0001</value>
+      <footprint>47272-0001:MOLEX_47272-0001</footprint>
+      <fields>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R</field>
+        <field name="MF">Molex</field>
+        <field name="MP">47272-0001</field>
+        <field name="PACKAGE">None</field>
+        <field name="PRICE">None</field>
+      </fields>
+      <libsource lib="47272-0001" part="47272-0001" description=""/>
+      <property name="MP" value="47272-0001"/>
+      <property name="PACKAGE" value="None"/>
+      <property name="MF" value="Molex"/>
+      <property name="PRICE" value="None"/>
+      <property name="AVAILABILITY" value="Unavailable"/>
+      <property name="DESCRIPTION" value="Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single3"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single3/" tstamps="/e8d2b4c2-3d05-47d9-ae9f-1984132c8c3c/"/>
+      <tstamps>7dce0df9-3c03-4d99-b668-931d27be5d82</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>HDMR-19-01-S-SM-TR</value>
+      <footprint>HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="PARTREV">H</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="HDMR-19-01-S-SM-TR" part="HDMR-19-01-S-SM-TR" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="6.18 mm"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="H"/>
+      <property name="Sheetname" value="pc070_aida_hdmi_dp_single3"/>
+      <property name="Sheetfile" value="../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch"/>
+      <sheetpath names="/pc070_aida_hdmi_dp_single3/" tstamps="/e8d2b4c2-3d05-47d9-ae9f-1984132c8c3c/"/>
+      <tstamps>dd00c2e1-6027-4717-b312-4fab3ee52002</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="47272-0001" part="47272-0001">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">47272-0001</field>
+        <field name="Footprint">MOLEX_47272-0001</field>
+        <field name="MP">47272-0001</field>
+        <field name="PACKAGE">None</field>
+        <field name="MF">Molex</field>
+        <field name="PRICE">None</field>
+        <field name="AVAILABILITY">Unavailable</field>
+        <field name="DESCRIPTION">Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="HDMR-19-01-S-SM-TR" part="HDMR-19-01-S-SM-TR">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HDMR-19-01-S-SM-TR</field>
+        <field name="Footprint">SAMTEC_HDMR-19-01-S-SM-TR</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.18 mm</field>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">H</field>
+      </fields>
+      <pins>
+        <pin num="01" name="01" type="passive"/>
+        <pin num="02" name="02" type="passive"/>
+        <pin num="03" name="03" type="passive"/>
+        <pin num="04" name="04" type="passive"/>
+        <pin num="05" name="05" type="passive"/>
+        <pin num="06" name="06" type="passive"/>
+        <pin num="07" name="07" type="passive"/>
+        <pin num="08" name="08" type="passive"/>
+        <pin num="09" name="09" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="47272-0001">
+      <uri>/Users/phdgc/Documents/pc070/hardware/kicad/47272-0001/47272-0001.kicad_sym</uri>
+    </library>
+    <library logical="HDMR-19-01-S-SM-TR">
+      <uri>/Users/phdgc/Documents/pc070/hardware/kicad/HDMR-19-01-S-SM-TR/HDMR-19-01-S-SM-TR.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/pc070_aida_hdmi_dp_single/BUSY">
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J2" pin="07" pinfunction="07" pintype="passive"/>
+    </net>
+    <net code="2" name="/pc070_aida_hdmi_dp_single/BUSY*">
+      <node ref="J1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="J2" pin="09" pinfunction="09" pintype="passive"/>
+    </net>
+    <net code="3" name="/pc070_aida_hdmi_dp_single/CLK">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="01" pinfunction="01" pintype="passive"/>
+    </net>
+    <net code="4" name="/pc070_aida_hdmi_dp_single/CLK*">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="03" pinfunction="03" pintype="passive"/>
+    </net>
+    <net code="5" name="/pc070_aida_hdmi_dp_single/CONT">
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J2" pin="04" pinfunction="04" pintype="passive"/>
+    </net>
+    <net code="6" name="/pc070_aida_hdmi_dp_single/CONT*">
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J2" pin="06" pinfunction="06" pintype="passive"/>
+    </net>
+    <net code="7" name="/pc070_aida_hdmi_dp_single/SPARE">
+      <node ref="J1" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="8" name="/pc070_aida_hdmi_dp_single/SPARE*">
+      <node ref="J1" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="J2" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="9" name="/pc070_aida_hdmi_dp_single/TRIG">
+      <node ref="J1" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="J2" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="10" name="/pc070_aida_hdmi_dp_single/TRIG*">
+      <node ref="J1" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J2" pin="17" pinfunction="17" pintype="passive"/>
+    </net>
+    <net code="11" name="/pc070_aida_hdmi_dp_single1/BUSY">
+      <node ref="J3" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J4" pin="07" pinfunction="07" pintype="passive"/>
+    </net>
+    <net code="12" name="/pc070_aida_hdmi_dp_single1/BUSY*">
+      <node ref="J3" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="J4" pin="09" pinfunction="09" pintype="passive"/>
+    </net>
+    <net code="13" name="/pc070_aida_hdmi_dp_single1/CLK">
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="01" pinfunction="01" pintype="passive"/>
+    </net>
+    <net code="14" name="/pc070_aida_hdmi_dp_single1/CLK*">
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J4" pin="03" pinfunction="03" pintype="passive"/>
+    </net>
+    <net code="15" name="/pc070_aida_hdmi_dp_single1/CONT">
+      <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J4" pin="04" pinfunction="04" pintype="passive"/>
+    </net>
+    <net code="16" name="/pc070_aida_hdmi_dp_single1/CONT*">
+      <node ref="J3" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J4" pin="06" pinfunction="06" pintype="passive"/>
+    </net>
+    <net code="17" name="/pc070_aida_hdmi_dp_single1/SPARE">
+      <node ref="J3" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="18" name="/pc070_aida_hdmi_dp_single1/SPARE*">
+      <node ref="J3" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="J4" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="19" name="/pc070_aida_hdmi_dp_single1/TRIG">
+      <node ref="J3" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="J4" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="20" name="/pc070_aida_hdmi_dp_single1/TRIG*">
+      <node ref="J3" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J4" pin="17" pinfunction="17" pintype="passive"/>
+    </net>
+    <net code="21" name="/pc070_aida_hdmi_dp_single2/BUSY">
+      <node ref="J5" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J6" pin="07" pinfunction="07" pintype="passive"/>
+    </net>
+    <net code="22" name="/pc070_aida_hdmi_dp_single2/BUSY*">
+      <node ref="J5" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="J6" pin="09" pinfunction="09" pintype="passive"/>
+    </net>
+    <net code="23" name="/pc070_aida_hdmi_dp_single2/CLK">
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="01" pinfunction="01" pintype="passive"/>
+    </net>
+    <net code="24" name="/pc070_aida_hdmi_dp_single2/CLK*">
+      <node ref="J5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J6" pin="03" pinfunction="03" pintype="passive"/>
+    </net>
+    <net code="25" name="/pc070_aida_hdmi_dp_single2/CONT">
+      <node ref="J5" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J6" pin="04" pinfunction="04" pintype="passive"/>
+    </net>
+    <net code="26" name="/pc070_aida_hdmi_dp_single2/CONT*">
+      <node ref="J5" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J6" pin="06" pinfunction="06" pintype="passive"/>
+    </net>
+    <net code="27" name="/pc070_aida_hdmi_dp_single2/SPARE">
+      <node ref="J5" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J6" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="28" name="/pc070_aida_hdmi_dp_single2/SPARE*">
+      <node ref="J5" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="J6" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="29" name="/pc070_aida_hdmi_dp_single2/TRIG">
+      <node ref="J5" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="J6" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="30" name="/pc070_aida_hdmi_dp_single2/TRIG*">
+      <node ref="J5" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J6" pin="17" pinfunction="17" pintype="passive"/>
+    </net>
+    <net code="31" name="/pc070_aida_hdmi_dp_single3/BUSY">
+      <node ref="J11" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J12" pin="07" pinfunction="07" pintype="passive"/>
+    </net>
+    <net code="32" name="/pc070_aida_hdmi_dp_single3/BUSY*">
+      <node ref="J11" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="J12" pin="09" pinfunction="09" pintype="passive"/>
+    </net>
+    <net code="33" name="/pc070_aida_hdmi_dp_single3/CLK">
+      <node ref="J11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J12" pin="01" pinfunction="01" pintype="passive"/>
+    </net>
+    <net code="34" name="/pc070_aida_hdmi_dp_single3/CLK*">
+      <node ref="J11" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J12" pin="03" pinfunction="03" pintype="passive"/>
+    </net>
+    <net code="35" name="/pc070_aida_hdmi_dp_single3/CONT">
+      <node ref="J11" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J12" pin="04" pinfunction="04" pintype="passive"/>
+    </net>
+    <net code="36" name="/pc070_aida_hdmi_dp_single3/CONT*">
+      <node ref="J11" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J12" pin="06" pinfunction="06" pintype="passive"/>
+    </net>
+    <net code="37" name="/pc070_aida_hdmi_dp_single3/SPARE">
+      <node ref="J11" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J12" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="38" name="/pc070_aida_hdmi_dp_single3/SPARE*">
+      <node ref="J11" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="J12" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="39" name="/pc070_aida_hdmi_dp_single3/TRIG">
+      <node ref="J11" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="J12" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="40" name="/pc070_aida_hdmi_dp_single3/TRIG*">
+      <node ref="J11" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J12" pin="17" pinfunction="17" pintype="passive"/>
+    </net>
+    <net code="41" name="/pc070_aida_hdmi_dp_single4/BUSY">
+      <node ref="J10" pin="07" pinfunction="07" pintype="passive"/>
+      <node ref="J9" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="42" name="/pc070_aida_hdmi_dp_single4/BUSY*">
+      <node ref="J10" pin="09" pinfunction="09" pintype="passive"/>
+      <node ref="J9" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="43" name="/pc070_aida_hdmi_dp_single4/CLK">
+      <node ref="J10" pin="01" pinfunction="01" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="/pc070_aida_hdmi_dp_single4/CLK*">
+      <node ref="J10" pin="03" pinfunction="03" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="45" name="/pc070_aida_hdmi_dp_single4/CONT">
+      <node ref="J10" pin="04" pinfunction="04" pintype="passive"/>
+      <node ref="J9" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="46" name="/pc070_aida_hdmi_dp_single4/CONT*">
+      <node ref="J10" pin="06" pinfunction="06" pintype="passive"/>
+      <node ref="J9" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="47" name="/pc070_aida_hdmi_dp_single4/SPARE">
+      <node ref="J10" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J9" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="48" name="/pc070_aida_hdmi_dp_single4/SPARE*">
+      <node ref="J10" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="J9" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="49" name="/pc070_aida_hdmi_dp_single4/TRIG">
+      <node ref="J10" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="J9" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="50" name="/pc070_aida_hdmi_dp_single4/TRIG*">
+      <node ref="J10" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J9" pin="16" pinfunction="16" pintype="passive"/>
+    </net>
+    <net code="51" name="/pc070_aida_hdmi_dp_single5/BUSY">
+      <node ref="J7" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J8" pin="07" pinfunction="07" pintype="passive"/>
+    </net>
+    <net code="52" name="/pc070_aida_hdmi_dp_single5/BUSY*">
+      <node ref="J7" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="J8" pin="09" pinfunction="09" pintype="passive"/>
+    </net>
+    <net code="53" name="/pc070_aida_hdmi_dp_single5/CLK">
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="01" pinfunction="01" pintype="passive"/>
+    </net>
+    <net code="54" name="/pc070_aida_hdmi_dp_single5/CLK*">
+      <node ref="J7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J8" pin="03" pinfunction="03" pintype="passive"/>
+    </net>
+    <net code="55" name="/pc070_aida_hdmi_dp_single5/CONT">
+      <node ref="J7" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J8" pin="04" pinfunction="04" pintype="passive"/>
+    </net>
+    <net code="56" name="/pc070_aida_hdmi_dp_single5/CONT*">
+      <node ref="J7" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J8" pin="06" pinfunction="06" pintype="passive"/>
+    </net>
+    <net code="57" name="/pc070_aida_hdmi_dp_single5/SPARE">
+      <node ref="J7" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J8" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="58" name="/pc070_aida_hdmi_dp_single5/SPARE*">
+      <node ref="J7" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="J8" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="59" name="/pc070_aida_hdmi_dp_single5/TRIG">
+      <node ref="J7" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="J8" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="60" name="/pc070_aida_hdmi_dp_single5/TRIG*">
+      <node ref="J7" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J8" pin="17" pinfunction="17" pintype="passive"/>
+    </net>
+    <net code="61" name="GND">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J1" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J10" pin="02" pinfunction="02" pintype="passive"/>
+      <node ref="J10" pin="05" pinfunction="05" pintype="passive"/>
+      <node ref="J10" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="J10" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J10" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J10" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J10" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J10" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J10" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J11" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J11" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J11" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J11" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J11" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J11" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J11" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J11" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J12" pin="02" pinfunction="02" pintype="passive"/>
+      <node ref="J12" pin="05" pinfunction="05" pintype="passive"/>
+      <node ref="J12" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="J12" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J12" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J12" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J12" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J12" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J12" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="02" pinfunction="02" pintype="passive"/>
+      <node ref="J2" pin="05" pinfunction="05" pintype="passive"/>
+      <node ref="J2" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="J2" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J2" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J2" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J3" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J3" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J3" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="02" pinfunction="02" pintype="passive"/>
+      <node ref="J4" pin="05" pinfunction="05" pintype="passive"/>
+      <node ref="J4" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="J4" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J4" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J4" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J5" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J5" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J5" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J5" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J5" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J5" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J5" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J6" pin="02" pinfunction="02" pintype="passive"/>
+      <node ref="J6" pin="05" pinfunction="05" pintype="passive"/>
+      <node ref="J6" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="J6" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J6" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J6" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J6" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J6" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J6" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J7" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J7" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J7" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J7" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J7" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J7" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J7" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J7" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J8" pin="02" pinfunction="02" pintype="passive"/>
+      <node ref="J8" pin="05" pinfunction="05" pintype="passive"/>
+      <node ref="J8" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="J8" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J8" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="J8" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J8" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J8" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J8" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J9" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J9" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J9" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J9" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J9" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J9" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J9" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J9" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+    </net>
+    <net code="62" name="unconnected-(J1-Pad13)">
+      <node ref="J1" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="63" name="unconnected-(J1-Pad14)">
+      <node ref="J1" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="64" name="unconnected-(J1-Pad18)">
+      <node ref="J1" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="65" name="unconnected-(J1-Pad19)">
+      <node ref="J1" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="66" name="unconnected-(J1-Pad20)">
+      <node ref="J1" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="67" name="unconnected-(J2-Pad13)">
+      <node ref="J2" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="68" name="unconnected-(J2-Pad14)">
+      <node ref="J2" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="69" name="unconnected-(J2-Pad18)">
+      <node ref="J2" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="70" name="unconnected-(J2-Pad19)">
+      <node ref="J2" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="71" name="unconnected-(J3-Pad13)">
+      <node ref="J3" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="72" name="unconnected-(J3-Pad14)">
+      <node ref="J3" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="73" name="unconnected-(J3-Pad18)">
+      <node ref="J3" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="74" name="unconnected-(J3-Pad19)">
+      <node ref="J3" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="75" name="unconnected-(J3-Pad20)">
+      <node ref="J3" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="76" name="unconnected-(J4-Pad13)">
+      <node ref="J4" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="77" name="unconnected-(J4-Pad14)">
+      <node ref="J4" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="78" name="unconnected-(J4-Pad18)">
+      <node ref="J4" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="79" name="unconnected-(J4-Pad19)">
+      <node ref="J4" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="80" name="unconnected-(J5-Pad13)">
+      <node ref="J5" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="81" name="unconnected-(J5-Pad14)">
+      <node ref="J5" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="82" name="unconnected-(J5-Pad18)">
+      <node ref="J5" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="83" name="unconnected-(J5-Pad19)">
+      <node ref="J5" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="84" name="unconnected-(J5-Pad20)">
+      <node ref="J5" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="85" name="unconnected-(J6-Pad13)">
+      <node ref="J6" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="86" name="unconnected-(J6-Pad14)">
+      <node ref="J6" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="87" name="unconnected-(J6-Pad18)">
+      <node ref="J6" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="88" name="unconnected-(J6-Pad19)">
+      <node ref="J6" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(J7-Pad13)">
+      <node ref="J7" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="90" name="unconnected-(J7-Pad14)">
+      <node ref="J7" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="91" name="unconnected-(J7-Pad18)">
+      <node ref="J7" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(J7-Pad19)">
+      <node ref="J7" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="93" name="unconnected-(J7-Pad20)">
+      <node ref="J7" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="94" name="unconnected-(J8-Pad13)">
+      <node ref="J8" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="95" name="unconnected-(J8-Pad14)">
+      <node ref="J8" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="96" name="unconnected-(J8-Pad18)">
+      <node ref="J8" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="97" name="unconnected-(J8-Pad19)">
+      <node ref="J8" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="98" name="unconnected-(J9-Pad13)">
+      <node ref="J9" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="99" name="unconnected-(J9-Pad14)">
+      <node ref="J9" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="100" name="unconnected-(J9-Pad18)">
+      <node ref="J9" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="101" name="unconnected-(J9-Pad19)">
+      <node ref="J9" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="102" name="unconnected-(J9-Pad20)">
+      <node ref="J9" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="103" name="unconnected-(J10-Pad13)">
+      <node ref="J10" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="104" name="unconnected-(J10-Pad14)">
+      <node ref="J10" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="105" name="unconnected-(J10-Pad18)">
+      <node ref="J10" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="106" name="unconnected-(J10-Pad19)">
+      <node ref="J10" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="107" name="unconnected-(J11-Pad13)">
+      <node ref="J11" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="108" name="unconnected-(J11-Pad14)">
+      <node ref="J11" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="109" name="unconnected-(J11-Pad18)">
+      <node ref="J11" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="110" name="unconnected-(J11-Pad19)">
+      <node ref="J11" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="111" name="unconnected-(J11-Pad20)">
+      <node ref="J11" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="112" name="unconnected-(J12-Pad13)">
+      <node ref="J12" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="113" name="unconnected-(J12-Pad14)">
+      <node ref="J12" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="114" name="unconnected-(J12-Pad18)">
+      <node ref="J12" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="115" name="unconnected-(J12-Pad19)">
+      <node ref="J12" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+  </nets>
+</export>

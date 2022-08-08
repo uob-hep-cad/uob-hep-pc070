@@ -1,0 +1,34 @@
+"Source:","/projects/HEP_Instrumentation/cad/designs/uob-hep-pc070/hardware/kicad/pc070_aida_hdmi_dp/pc070_aida_hdmi_dp.kicad_sch"
+"Date:","Fri 05 Aug 2022 13:53:49 BST"
+"Tool:","Eeschema 6.0.7-1.fc36"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","16"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","AVAILABILITY","DESCRIPTION","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","MF","MP","PACKAGE","PARTREV","PRICE","STANDARD"
+"","","H1","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom","~","","","","","","","","","",""
+"","","H2","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom","~","","","","","","","","","",""
+"","","H3","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom","~","","","","","","","","","",""
+"","","H4","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom","~","","","","","","","","","",""
+"","","J1","47272-0001","47272-0001:47272-0001","47272-0001:MOLEX_47272-0001","","Unavailable","Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R","","","Molex","47272-0001","None","","None",""
+"","","J2","HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR","","","","Samtec","6.18 mm","","","","H","","Manufacturer Recommendations"
+"","","J3","47272-0001","47272-0001:47272-0001","47272-0001:MOLEX_47272-0001","","Unavailable","Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R","","","Molex","47272-0001","None","","None",""
+"","","J4","HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR","","","","Samtec","6.18 mm","","","","H","","Manufacturer Recommendations"
+"","","J5","47272-0001","47272-0001:47272-0001","47272-0001:MOLEX_47272-0001","","Unavailable","Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R","","","Molex","47272-0001","None","","None",""
+"","","J6","HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR","","","","Samtec","6.18 mm","","","","H","","Manufacturer Recommendations"
+"","","J7","47272-0001","47272-0001:47272-0001","47272-0001:MOLEX_47272-0001","","Unavailable","Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R","","","Molex","47272-0001","None","","None",""
+"","","J8","HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR","","","","Samtec","6.18 mm","","","","H","","Manufacturer Recommendations"
+"","","J9","47272-0001","47272-0001:47272-0001","47272-0001:MOLEX_47272-0001","","Unavailable","Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R","","","Molex","47272-0001","None","","None",""
+"","","J10","HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR","","","","Samtec","6.18 mm","","","","H","","Manufacturer Recommendations"
+"","","J11","47272-0001","47272-0001:47272-0001","47272-0001:MOLEX_47272-0001","","Unavailable","Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R","","","Molex","47272-0001","None","","None",""
+"","","J12","HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR","","","","Samtec","6.18 mm","","","","H","","Manufacturer Recommendations"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","AVAILABILITY","DESCRIPTION","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","MF","MP","PACKAGE","PARTREV","PRICE","STANDARD"
+"1","4","H1, H2, H3, H4","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopBottom","~","","","","","","","","","",""
+"2","6","J1, J3, J5, J7, J9, J11","47272-0001","47272-0001:47272-0001","47272-0001:MOLEX_47272-0001","","Unavailable","Conn Display Port RCP 20 POS 0.5mm Solder RA SMD 20 Terminal 1 Port DisplayPort T/R","","","Molex","47272-0001","None","","None",""
+"3","6","J2, J4, J6, J8, J10, J12","HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:HDMR-19-01-S-SM-TR","HDMR-19-01-S-SM-TR:SAMTEC_HDMR-19-01-S-SM-TR","","","","Samtec","6.18 mm","","","","H","","Manufacturer Recommendations"
