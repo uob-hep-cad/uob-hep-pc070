@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.7-1.fc36"
+      "Version": "6.0.7-5.fc36"
     },
-    "CreationDate": "2022-07-28T15:58:57+01:00"
+    "CreationDate": "2022-09-30T16:01:05+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -17,8 +17,8 @@
       "X": 40.1,
       "Y": 150.1
     },
-    "LayerNumber": 4,
-    "BoardThickness": 1.6,
+    "LayerNumber": 2,
+    "BoardThickness": 1.69,
     "Finish": "Immersion silver"
   },
   "DesignRules": [
@@ -27,13 +27,7 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25
-    },
-    {
-      "Layers": "Inner",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
-      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.25,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
     }
@@ -45,18 +39,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pc070_aida_hdmi_dp-In1_Cu.gbr",
-      "FileFunction": "Copper,L2,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "pc070_aida_hdmi_dp-In2_Cu.gbr",
-      "FileFunction": "Copper,L3,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "pc070_aida_hdmi_dp-B_Cu.gbr",
-      "FileFunction": "Copper,L4,Bot",
+      "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -65,18 +49,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pc070_aida_hdmi_dp-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "pc070_aida_hdmi_dp-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "pc070_aida_hdmi_dp-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -103,6 +77,7 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
+      "Color": "White",
       "Name": "Top Silk Screen"
     },
     {
@@ -111,7 +86,9 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
+      "Material": "Liquid Ink",
       "Name": "Top Solder Mask"
     },
     {
@@ -121,34 +98,10 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.48,
+      "Thickness": 1.6,
       "Material": "FR4",
-      "Name": "F.Cu/In1.Cu",
-      "Notes": "Type: dielectric layer 1 (from F.Cu to In1.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In1.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.48,
-      "Material": "FR4",
-      "Name": "In1.Cu/In2.Cu",
-      "Notes": "Type: dielectric layer 2 (from In1.Cu to In2.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In2.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.48,
-      "Material": "FR4",
-      "Name": "In2.Cu/B.Cu",
-      "Notes": "Type: dielectric layer 3 (from In2.Cu to B.Cu)"
+      "Name": "F.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
@@ -157,7 +110,9 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
+      "Material": "Liquid Ink",
       "Name": "Bottom Solder Mask"
     },
     {
@@ -166,6 +121,7 @@
     },
     {
       "Type": "Legend",
+      "Color": "White",
       "Name": "Bottom Silk Screen"
     }
   ]

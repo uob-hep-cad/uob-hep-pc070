@@ -1,81 +1,76 @@
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'darwin'
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: (6.0.4-0)
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x7fd2efbf7430>
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with J1 as a reference
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'J1'
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 303:Plugin executed on: 'linux'
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 304:Plugin executed with python version: '3.10.7 (main, Sep  7 2022, 00:00:00) [GCC 12.2.1 20220819 (Red Hat 12.2.1-1)]'
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 305:KiCad build version: 6.0.7-5.fc36
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 306:Plugin version: 1.2.1
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 307:Frame repr: <wx._core.Frame object at 0x7fbb773e05e0>
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 331:Preparing replicator with J1 as a reference
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 106:getting a list of all footprints on board
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 359:source anchor footprint is 'J1'
 Located on: ['pc070_aida_hdmi_dp_single']
 With filenames: ['../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch']
 With sheet_id:['pc070_aida_hdmi_dp_single']
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
-[('J11', ['pc070_aida_hdmi_dp_single3']), ('J9', ['pc070_aida_hdmi_dp_single4']), ('J7', ['pc070_aida_hdmi_dp_single5']), ('J5', ['pc070_aida_hdmi_dp_single2']), ('J3', ['pc070_aida_hdmi_dp_single1']), ('J1', ['pc070_aida_hdmi_dp_single'])]
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(1412, 174)
-07-15 01:02:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(1048, 174)
-07-15 01:02:25 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'pc070_aida_hdmi_dp_single', file:'../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch'
-07-15 01:02:25 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['pc070_aida_hdmi_dp_single1'], ['pc070_aida_hdmi_dp_single2'], ['pc070_aida_hdmi_dp_single3'], ['pc070_aida_hdmi_dp_single4'], ['pc070_aida_hdmi_dp_single5']]
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'pc070_aida_hdmi_dp_single', file:'../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch'
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['pc070_aida_hdmi_dp_single1'], ['pc070_aida_hdmi_dp_single2'], ['pc070_aida_hdmi_dp_single3'], ['pc070_aida_hdmi_dp_single4'], ['pc070_aida_hdmi_dp_single5']]
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 145:Replicating layout
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 146:Starting replication of sheets: [['pc070_aida_hdmi_dp_single1'], ['pc070_aida_hdmi_dp_single2'], ['pc070_aida_hdmi_dp_single3'], ['pc070_aida_hdmi_dp_single4'], ['pc070_aida_hdmi_dp_single5']]
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 366:Corresponding footprints are 
+[('J7', ['pc070_aida_hdmi_dp_single5']), ('J9', ['pc070_aida_hdmi_dp_single4']), ('J1', ['pc070_aida_hdmi_dp_single']), ('J3', ['pc070_aida_hdmi_dp_single1']), ('J5', ['pc070_aida_hdmi_dp_single2']), ('J11', ['pc070_aida_hdmi_dp_single3'])]
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 378:Showing dialog
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'pc070_aida_hdmi_dp_single', file:'../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch'
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['pc070_aida_hdmi_dp_single1'], ['pc070_aida_hdmi_dp_single2'], ['pc070_aida_hdmi_dp_single3'], ['pc070_aida_hdmi_dp_single4'], ['pc070_aida_hdmi_dp_single5']]
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1112:Level selected: ['pc070_aida_hdmi_dp_single']
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 384:Toolbar position: wx.Point(2500, 151)
+09-30 14:54:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 390:Dialog position: wx.Point(2136, 151)
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 344:constructing a list of sheets suitable for replication on level:'pc070_aida_hdmi_dp_single', file:'../pc070_aida_hdmi_dp_single/pc070_aida_hdmi_dp_single.kicad_sch'
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 381:suitable sheets are:[['pc070_aida_hdmi_dp_single1'], ['pc070_aida_hdmi_dp_single2'], ['pc070_aida_hdmi_dp_single3'], ['pc070_aida_hdmi_dp_single4'], ['pc070_aida_hdmi_dp_single5']]
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 157:Replicating layout
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 154:Starting replication of sheets: [['pc070_aida_hdmi_dp_single1'], ['pc070_aida_hdmi_dp_single2'], ['pc070_aida_hdmi_dp_single3'], ['pc070_aida_hdmi_dp_single4'], ['pc070_aida_hdmi_dp_single5']]
 on level: ['pc070_aida_hdmi_dp_single']
-with tracks=True, zone=True, text=True, containing=True, remove=False, locked=False, by_group=False
-07-15 01:02:28 root 235:updating GUI message: 'Preparing for replication'
-07-15 01:02:28 root 240:updating GUI with: 0
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 215:Getting the list of source footprints
-07-15 01:02:28 root 240:updating GUI with: 0
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 230:Getting the list of all the remaining footprints
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 235:Getting nets local to source footprints
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 238:Getting source bounding box
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 242:Getting source tracks
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 257:Getting source zones
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source text items
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source drawing items
-07-15 01:02:28 root 235:updating GUI message: 'Replicating footprints'
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 669:Replicating footprints
-07-15 01:02:28 root 240:updating GUI with: 0
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single1']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single2']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single3']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single4']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single5']
-07-15 01:02:28 root 235:updating GUI message: 'Replicating tracks'
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Replicating tracks
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single1']
-07-15 01:02:28 root 240:updating GUI with: 0
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single2']
-07-15 01:02:28 root 240:updating GUI with: 27
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single3']
-07-15 01:02:28 root 240:updating GUI with: 40
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single4']
-07-15 01:02:28 root 240:updating GUI with: 60
-07-15 01:02:28 root 240:updating GUI with: 62
-07-15 01:02:28 root 240:updating GUI with: 80
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single5']
-07-15 01:02:28 root 240:updating GUI with: 97
-07-15 01:02:28 root 235:updating GUI message: 'Replicating zones'
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 893:Replicating zones
-07-15 01:02:28 root 240:updating GUI with: 0
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['pc070_aida_hdmi_dp_single1']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['pc070_aida_hdmi_dp_single2']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['pc070_aida_hdmi_dp_single3']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['pc070_aida_hdmi_dp_single4']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['pc070_aida_hdmi_dp_single5']
-07-15 01:02:28 root 235:updating GUI message: 'Replicating text'
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 963:Replicating text
-07-15 01:02:28 root 240:updating GUI with: 0
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['pc070_aida_hdmi_dp_single1']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['pc070_aida_hdmi_dp_single2']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['pc070_aida_hdmi_dp_single3']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['pc070_aida_hdmi_dp_single4']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['pc070_aida_hdmi_dp_single5']
-07-15 01:02:28 root 235:updating GUI message: 'Replicating drawings'
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Replicating drawings
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single1']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single2']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single3']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single4']
-07-15 01:02:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single5']
-07-15 01:02:29 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 169:Replication complete
+with tracks=True, zone=True, text=True, text=True, containing=True, remove=False, locked footprints=False, by_group=False
+09-30 14:55:03 root 243:updating GUI message: 'Preparing for replication'
+09-30 14:55:03 root 248:updating GUI with: 0
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 224:Getting the list of source footprints
+09-30 14:55:03 root 248:updating GUI with: 0
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 239:Getting the list of all the remaining footprints
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 244:Getting nets local to source footprints
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 247:Getting source bounding box
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 251:Getting source tracks
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source zones
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source text items
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 284:Getting source drawing items
+09-30 14:55:03 root 243:updating GUI message: 'Replicating footprints'
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 678:Replicating footprints
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single1']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single2']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single3']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single4']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 684:Replicating footprints on sheet ['pc070_aida_hdmi_dp_single5']
+09-30 14:55:03 root 243:updating GUI message: 'Replicating tracks'
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 844:Replicating tracks
+09-30 14:55:03 root 248:updating GUI with: 0
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single1']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single2']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single3']
+09-30 14:55:03 root 248:updating GUI with: 44
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single4']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 850:Replicating tracks on sheet ['pc070_aida_hdmi_dp_single5']
+09-30 14:55:03 root 243:updating GUI message: 'Replicating zones'
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 909:Replicating zones
+09-30 14:55:03 root 248:updating GUI with: 0
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['pc070_aida_hdmi_dp_single1']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['pc070_aida_hdmi_dp_single2']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['pc070_aida_hdmi_dp_single3']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['pc070_aida_hdmi_dp_single4']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 916:Replicating zones on sheet ['pc070_aida_hdmi_dp_single5']
+09-30 14:55:03 root 243:updating GUI message: 'Replicating text'
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 985:Replicating text
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['pc070_aida_hdmi_dp_single1']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['pc070_aida_hdmi_dp_single2']
+09-30 14:55:03 root 248:updating GUI with: 40
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['pc070_aida_hdmi_dp_single3']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['pc070_aida_hdmi_dp_single4']
+09-30 14:55:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 992:Replicating text on sheet ['pc070_aida_hdmi_dp_single5']
+09-30 14:55:03 root 243:updating GUI message: 'Replicating drawings'
+09-30 14:55:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1032:Replicating drawings
+09-30 14:55:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single1']
+09-30 14:55:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single2']
+09-30 14:55:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single3']
+09-30 14:55:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single4']
+09-30 14:55:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1038:Replicating drawings on sheet ['pc070_aida_hdmi_dp_single5']
+09-30 14:55:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 177:Replication complete
