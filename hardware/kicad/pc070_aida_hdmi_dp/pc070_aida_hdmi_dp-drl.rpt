@@ -1,5 +1,5 @@
 Drill report for pc070_aida_hdmi_dp.kicad_pcb
-Created on Fri 30 Sep 2022 15:47:24 BST
+Created on Thu 20 Oct 2022 17:48:11 BST
 
 Copper Layer Stackup:
     =============================================================
@@ -10,12 +10,13 @@ Copper Layer Stackup:
 Drill file 'pc070_aida_hdmi_dp-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (60 holes)
-    T2  0.600mm  0.0236"  (24 holes)  (with 24 slots)
-    T3  0.900mm  0.0354"  (24 holes)  (with 24 slots)
-    T4  3.200mm  0.1260"  (4 holes)
+    T1  0.400mm  0.0157"  (54 holes)
+    T2  0.500mm  0.0197"  (72 holes)
+    T3  0.800mm  0.0315"  (24 holes)  (with 24 slots)
+    T4  0.900mm  0.0354"  (24 holes)  (with 24 slots)
+    T5  3.200mm  0.1260"  (4 holes)
 
-    Total plated holes count 112
+    Total plated holes count 178
 
 
 Drill file 'pc070_aida_hdmi_dp-NPTH.drl' contains
